@@ -29,4 +29,4 @@ print(
     + f"with a slope of {slope} and a y-intercept of {y_intercept} so I wrote y = {slope}x + {y_intercept}, but I did not notice the x value of {x} in the question "
     + f"so I needed to, on the next line, say that the value of y was {y}. "
     + f"I told my sister {sister_name} and my brother {brother_name} about this and they just laughed at me 🙄"
-    + "Anyway, that's the story of my math test." )
+    + "Anyway, that's the story of my math test." ) 
